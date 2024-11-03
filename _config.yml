@@ -102,7 +102,7 @@ theme: redefine
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/wenmo-blog/wenmo-blog.github.io.git
+  repository: https://github.com/wenmo-blog/blog.git
   branch: main
 
 mathjax:
